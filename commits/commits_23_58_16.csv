@@ -1,0 +1,38 @@
+commit_id,commit_time,commit_message,author
+5b4b0f7,2023-03-18 17:31:35,fix bug,okozlova
+d2b25b2,2023-03-18 11:23:19,fix issue,aivanov
+917ef73,2023-03-18 22:07:34,refactor code,ekuznetsova
+327967b,2023-03-18 14:24:15,implement new design,dsmisnov
+f654fa6,2023-03-18 11:08:48,fix bug,dsmisnov
+c42d834,2023-03-18 00:06:39,update documentation,knikolaeva
+4426fe6,2023-03-18 10:44:17,update documentation,aivanov
+fa516c1,2023-03-18 15:41:46,implement new design,lvasiliev
+e780576,2023-03-18 21:16:20,fix bugs,knikolaeva
+3a7577f,2023-03-18 00:54:39,optimize performance,pzaitsev
+a437def,2023-03-18 20:18:27,optimize performance,abelov
+f84de4e,2023-03-18 09:31:13,fix bug in module,pzaitsev
+cc234bd,2023-03-18 13:45:10,fix bug in module,ekuznetsova
+0f946d4,2023-03-18 12:15:06,add unit tests,pzaitsev
+00b9e3c,2023-03-18 08:55:26,refactor code,nsokolov
+b07a79c,2023-03-18 12:53:43,fix bug,dsmisnov
+8df43e5,2023-03-18 12:59:16,add feature,mpetrova
+ed44b65,2023-03-18 17:26:06,improve user experience,abelov
+e6eb721,2023-03-18 20:40:58,update dependencies,aivanov
+4e3b577,2023-03-18 01:56:11,update documentation,pzaitsev
+524bbd1,2023-03-18 12:58:52,refactor code,abelov
+033e270,2023-03-18 01:27:12,update dependencies,aivanov
+d525a9d,2023-03-18 17:24:57,fix issue,pzaitsev
+1fb7a98,2023-03-18 14:41:33,fix bugs,knikolaeva
+cfa53be,2023-03-18 08:22:28,fix issue,lvasiliev
+ab86e44,2023-03-18 23:20:33,update documentation,ekuznetsova
+94552a3,2023-03-18 11:46:16,fix issue,abelov
+661081a,2023-03-18 18:51:06,optimize performance,dsmisnov
+af2ad23,2023-03-18 01:13:45,add feature,mpetrova
+d9cdc8c,2023-03-18 07:30:54,fix bugs,knikolaeva
+0584511,2023-03-18 07:54:27,update dependencies,mpetrova
+235f74a,2023-03-18 14:08:06,optimize performance,nsokolov
+797c462,2023-03-18 08:12:37,fix bug in module,knikolaeva
+16a2a53,2023-03-18 21:11:32,improve user experience,ekuznetsova
+7938b07,2023-03-18 01:30:19,fix bug,aivanov
+9a0ab00,2023-03-18 12:29:09,improve user experience,dsmisnov
+4741073,2023-03-18 00:19:18,refactor code,nsokolov

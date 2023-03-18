@@ -1,0 +1,48 @@
+commit_id,commit_time,commit_message,author
+252bf97,2023-03-18 23:11:18,fix bug,dsmisnov
+1f946f6,2023-03-18 22:48:48,add unit tests,lvasiliev
+981c3e0,2023-03-18 19:15:48,implement new design,nsokolov
+4a734d8,2023-03-18 00:33:37,fix bug,okozlova
+aa463c2,2023-03-18 14:57:44,add unit tests,okozlova
+dc1d08a,2023-03-18 12:14:43,add unit tests,dsmisnov
+c6f55eb,2023-03-18 18:24:54,optimize performance,aivanov
+fd3f383,2023-03-18 15:36:21,fix bug,pzaitsev
+e57c778,2023-03-18 00:20:10,update documentation,knikolaeva
+451f955,2023-03-18 21:06:27,fix bugs,aivanov
+5c92e92,2023-03-18 10:24:52,improve user experience,ekuznetsova
+1240ad7,2023-03-18 01:55:05,fix bug,nsokolov
+a438d50,2023-03-18 00:46:52,refactor code,abelov
+e36b811,2023-03-18 18:17:53,improve user experience,lvasiliev
+a87bbef,2023-03-18 11:47:36,fix issue,nsokolov
+94896e4,2023-03-18 08:49:39,implement new design,abelov
+cee96f3,2023-03-18 07:59:06,update documentation,knikolaeva
+97f96d8,2023-03-18 11:26:07,add feature,aivanov
+5051df7,2023-03-18 21:22:18,fix issue,mpetrova
+52dc8bc,2023-03-18 11:59:11,improve user experience,abelov
+44c0197,2023-03-18 20:25:39,fix bug,okozlova
+113ac1c,2023-03-18 11:26:30,update dependencies,mpetrova
+744c100,2023-03-18 11:25:42,update dependencies,mpetrova
+7a3c090,2023-03-18 18:43:36,fix bug,aivanov
+6c533b5,2023-03-18 07:34:01,refactor code,nsokolov
+bf03e7c,2023-03-18 19:23:35,update documentation,knikolaeva
+dd15cca,2023-03-18 17:07:41,refactor code,ekuznetsova
+67dc850,2023-03-18 14:18:37,update documentation,ekuznetsova
+cc2fb1c,2023-03-18 13:12:17,fix issue,okozlova
+b16b744,2023-03-18 07:16:47,fix bug,aivanov
+abadcf4,2023-03-18 17:45:58,optimize performance,ekuznetsova
+e825e8a,2023-03-18 12:36:56,update documentation,pzaitsev
+de23394,2023-03-18 20:42:19,update dependencies,okozlova
+889b2f6,2023-03-18 11:25:19,fix issue,mpetrova
+98208a9,2023-03-18 12:53:32,add feature,knikolaeva
+e9d2a67,2023-03-18 17:40:38,optimize performance,nsokolov
+ce14e58,2023-03-18 18:49:31,implement new design,mpetrova
+d2aec4f,2023-03-18 20:32:07,update documentation,lvasiliev
+eea7a2e,2023-03-18 22:06:18,fix bug,aivanov
+28fb0b7,2023-03-18 08:51:47,fix bug,okozlova
+1ba521f,2023-03-18 18:50:54,add unit tests,mpetrova
+457bd18,2023-03-18 00:53:15,update dependencies,abelov
+dcecfaa,2023-03-18 12:57:30,fix bugs,aivanov
+599fa67,2023-03-18 19:59:18,fix bugs,okozlova
+d378899,2023-03-18 18:18:53,update documentation,knikolaeva
+4c8cdf6,2023-03-18 14:14:31,refactor code,knikolaeva
+a08a1e2,2023-03-18 20:02:44,update documentation,pzaitsev

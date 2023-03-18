@@ -1,0 +1,37 @@
+commit_id,commit_time,commit_message,author
+596d849,2023-03-18 20:00:35,add feature,nsokolov
+c4defc9,2023-03-18 00:12:14,fix issue,abelov
+1e40b18,2023-03-18 10:27:57,fix bug,aivanov
+5d530f7,2023-03-18 01:27:15,fix bug,aivanov
+f39755b,2023-03-18 18:47:01,update dependencies,mpetrova
+7b75761,2023-03-18 13:27:13,update dependencies,pzaitsev
+a010ebd,2023-03-18 15:31:46,update dependencies,pzaitsev
+bae0447,2023-03-18 11:09:23,improve user experience,lvasiliev
+5f5396d,2023-03-18 18:37:38,update documentation,okozlova
+6de67f3,2023-03-18 12:22:24,implement new design,knikolaeva
+13164b2,2023-03-18 00:02:31,fix bug,dsmisnov
+ec23d4b,2023-03-18 20:37:05,improve user experience,abelov
+bcad2fc,2023-03-18 14:34:30,implement new design,abelov
+18962cf,2023-03-18 17:34:56,improve user experience,okozlova
+a5c245c,2023-03-18 13:23:44,add feature,nsokolov
+859e4fa,2023-03-18 07:13:06,fix bug in module,pzaitsev
+7415ef6,2023-03-18 21:52:04,fix bugs,mpetrova
+b046ff1,2023-03-18 01:24:24,fix bugs,abelov
+b645936,2023-03-18 20:30:50,fix bugs,aivanov
+40cb112,2023-03-18 15:10:13,add feature,okozlova
+fb2f95a,2023-03-18 19:33:22,fix bugs,ekuznetsova
+9bc6f84,2023-03-18 17:39:04,update dependencies,dsmisnov
+7fcf37d,2023-03-18 23:50:30,implement new design,knikolaeva
+ee24891,2023-03-18 21:02:36,implement new design,mpetrova
+8a81a18,2023-03-18 20:06:03,update documentation,lvasiliev
+ab846b6,2023-03-18 00:58:55,add unit tests,mpetrova
+6879dd9,2023-03-18 08:40:47,update documentation,lvasiliev
+7387d76,2023-03-18 16:21:10,fix bug,dsmisnov
+b6a3ad4,2023-03-18 19:42:50,fix bugs,dsmisnov
+d61eba7,2023-03-18 15:13:13,add feature,mpetrova
+3199fb6,2023-03-18 10:48:24,optimize performance,pzaitsev
+fe3e20f,2023-03-18 19:29:15,fix bug in module,mpetrova
+10523db,2023-03-18 14:19:05,add unit tests,mpetrova
+8948ec5,2023-03-18 01:29:23,fix issue,knikolaeva
+b1d53df,2023-03-18 12:29:00,improve user experience,mpetrova
+e13c28e,2023-03-18 11:02:32,refactor code,pzaitsev

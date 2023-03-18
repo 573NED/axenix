@@ -1,0 +1,51 @@
+commit_id,commit_time,commit_message,author
+7c63443,2023-03-18 00:23:35,fix bug,okozlova
+b7220c5,2023-03-18 00:40:13,implement new design,ekuznetsova
+b7bb6cf,2023-03-18 00:00:34,implement new design,okozlova
+d5516ce,2023-03-18 12:29:04,fix bug in module,knikolaeva
+41dc534,2023-03-18 13:52:20,fix bug in module,abelov
+0a65406,2023-03-18 17:48:18,refactor code,lvasiliev
+8584346,2023-03-18 21:20:17,refactor code,okozlova
+f0ec394,2023-03-18 19:47:34,improve user experience,ekuznetsova
+29185a0,2023-03-18 01:44:03,update dependencies,knikolaeva
+02005a0,2023-03-18 22:31:14,add feature,knikolaeva
+2b094e3,2023-03-18 20:24:20,optimize performance,nsokolov
+6478580,2023-03-18 11:34:24,fix issue,aivanov
+81b2e1d,2023-03-18 16:46:21,fix bug,mpetrova
+8ebffde,2023-03-18 23:35:18,fix bug in module,knikolaeva
+f6976f3,2023-03-18 00:59:59,update documentation,aivanov
+83f4342,2023-03-18 01:15:28,implement new design,lvasiliev
+e4162e9,2023-03-18 10:08:34,improve user experience,aivanov
+0b725d2,2023-03-18 20:09:26,add unit tests,knikolaeva
+eb7fd65,2023-03-18 19:28:11,add unit tests,abelov
+7796e87,2023-03-18 22:24:39,add unit tests,abelov
+23df44b,2023-03-18 19:50:45,fix bug in module,ekuznetsova
+cbbd3b6,2023-03-18 17:00:52,fix bugs,okozlova
+839f259,2023-03-18 14:40:28,update dependencies,dsmisnov
+1f2f9e8,2023-03-18 10:15:07,implement new design,ekuznetsova
+636e866,2023-03-18 12:39:36,fix issue,mpetrova
+504d36a,2023-03-18 23:08:56,fix bug,mpetrova
+53d0b06,2023-03-18 17:51:16,fix bug in module,aivanov
+806d0a4,2023-03-18 11:05:57,update documentation,okozlova
+d471fac,2023-03-18 16:17:58,update dependencies,abelov
+4c14e5e,2023-03-18 22:43:39,optimize performance,mpetrova
+5539f8d,2023-03-18 00:46:17,fix issue,knikolaeva
+ea6fac1,2023-03-18 07:09:09,fix bug in module,mpetrova
+c2833cf,2023-03-18 08:53:28,fix bugs,lvasiliev
+b2a042e,2023-03-18 10:05:31,improve user experience,pzaitsev
+965c3ea,2023-03-18 15:27:45,improve user experience,dsmisnov
+63c9303,2023-03-18 07:19:56,update dependencies,nsokolov
+67fff63,2023-03-18 23:03:28,add unit tests,dsmisnov
+2f742ac,2023-03-18 01:33:29,add feature,mpetrova
+4d8c265,2023-03-18 16:57:43,add feature,pzaitsev
+0f9a326,2023-03-18 20:54:27,fix bugs,pzaitsev
+8d41d57,2023-03-18 20:07:43,fix bug in module,knikolaeva
+7f6a6f6,2023-03-18 08:07:42,add unit tests,mpetrova
+794dc0a,2023-03-18 18:10:10,improve user experience,ekuznetsova
+45f05a5,2023-03-18 21:15:24,add unit tests,okozlova
+11694e1,2023-03-18 00:52:19,fix bug,okozlova
+c137176,2023-03-18 14:24:44,add unit tests,abelov
+a94c6d9,2023-03-18 21:27:29,update dependencies,okozlova
+c8efa71,2023-03-18 21:02:40,update dependencies,ekuznetsova
+218669e,2023-03-18 17:39:30,update dependencies,pzaitsev
+b068e39,2023-03-18 10:19:00,fix bug in module,nsokolov

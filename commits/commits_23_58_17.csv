@@ -1,0 +1,41 @@
+commit_id,commit_time,commit_message,author
+604ae60,2023-03-18 21:44:01,add feature,pzaitsev
+36d3796,2023-03-18 22:49:35,fix bugs,okozlova
+145a912,2023-03-18 00:36:57,fix bugs,ekuznetsova
+cbb6215,2023-03-18 17:18:28,refactor code,ekuznetsova
+e963376,2023-03-18 01:52:10,fix bugs,okozlova
+760f1b8,2023-03-18 15:20:46,add feature,nsokolov
+4047acf,2023-03-18 00:38:17,implement new design,nsokolov
+dd2a979,2023-03-18 11:22:55,update documentation,knikolaeva
+bde9aa7,2023-03-18 07:06:04,add unit tests,aivanov
+09c98dd,2023-03-18 08:17:01,fix bug in module,nsokolov
+5eea80f,2023-03-18 08:30:58,add unit tests,lvasiliev
+4583e4d,2023-03-18 19:22:42,fix bug in module,abelov
+d690765,2023-03-18 21:23:06,add feature,aivanov
+a7d4a11,2023-03-18 20:24:46,update dependencies,nsokolov
+e75c959,2023-03-18 17:23:12,fix issue,pzaitsev
+b370b1e,2023-03-18 09:22:39,fix bug,nsokolov
+837535e,2023-03-18 15:38:36,refactor code,mpetrova
+bffd0d3,2023-03-18 12:39:21,add unit tests,ekuznetsova
+c36fda0,2023-03-18 13:42:09,implement new design,aivanov
+88a916d,2023-03-18 13:26:44,implement new design,mpetrova
+02438cd,2023-03-18 10:51:15,optimize performance,ekuznetsova
+2df4cff,2023-03-18 09:44:29,update documentation,aivanov
+abca2ae,2023-03-18 20:57:58,update documentation,pzaitsev
+7e94d53,2023-03-18 07:20:32,implement new design,nsokolov
+42c5422,2023-03-18 23:14:45,fix bug,ekuznetsova
+6513c80,2023-03-18 21:35:35,improve user experience,ekuznetsova
+c4fd750,2023-03-18 10:52:15,implement new design,ekuznetsova
+2a800d3,2023-03-18 10:35:54,fix issue,pzaitsev
+aa95429,2023-03-18 15:09:16,optimize performance,pzaitsev
+5ad0a5a,2023-03-18 08:58:38,fix bugs,pzaitsev
+6380e86,2023-03-18 15:17:12,fix bug,nsokolov
+2308b4f,2023-03-18 18:44:02,fix bug in module,okozlova
+fc37608,2023-03-18 08:57:50,refactor code,ekuznetsova
+fe02ed8,2023-03-18 18:19:55,fix issue,pzaitsev
+f6eea73,2023-03-18 13:41:16,add unit tests,abelov
+7746c08,2023-03-18 20:35:05,refactor code,pzaitsev
+190a213,2023-03-18 00:20:01,fix issue,mpetrova
+7c3001a,2023-03-18 11:43:46,optimize performance,dsmisnov
+5ecb1ac,2023-03-18 10:06:44,update documentation,dsmisnov
+e157bc1,2023-03-18 22:29:36,refactor code,pzaitsev

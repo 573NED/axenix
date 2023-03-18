@@ -1,0 +1,21 @@
+body {
+    color: #000000;
+    font-family: consolas;
+    background: rgb(87,42,143);
+    background: linear-gradient(184deg, rgba(87,42,143,1) 0%, rgba(164,71,79,1) 37%, rgba(243,94,2,1) 100%); 
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+section div {
+    width: 90%;
+    border-radius: 25px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

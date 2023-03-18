@@ -1,0 +1,42 @@
+commit_id,commit_time,commit_message,author
+62101e2,2023-03-18 12:51:34,update dependencies,dsmisnov
+5f75dda,2023-03-18 20:28:08,fix issue,dsmisnov
+c98d6a0,2023-03-18 15:26:13,add feature,dsmisnov
+7600268,2023-03-18 10:51:04,add feature,dsmisnov
+f37fb9a,2023-03-18 19:04:23,fix bug in module,lvasiliev
+c7f097d,2023-03-18 16:22:43,fix bugs,pzaitsev
+eca4baa,2023-03-18 16:19:06,add unit tests,okozlova
+9c5ffde,2023-03-18 20:04:24,fix bugs,pzaitsev
+0bedf84,2023-03-18 00:56:30,update documentation,pzaitsev
+41957e6,2023-03-18 12:47:10,update documentation,ekuznetsova
+a058eb7,2023-03-18 13:19:38,add unit tests,lvasiliev
+51d7c7e,2023-03-18 01:55:30,refactor code,nsokolov
+b5f6f4d,2023-03-18 11:42:40,fix bugs,ekuznetsova
+a3eb6a4,2023-03-18 09:24:56,update dependencies,mpetrova
+c9e9133,2023-03-18 07:44:08,fix issue,mpetrova
+b43cdc2,2023-03-18 12:12:49,add unit tests,knikolaeva
+3b4fe8a,2023-03-18 21:50:18,add unit tests,abelov
+74854df,2023-03-18 15:01:29,add unit tests,nsokolov
+61f3e5f,2023-03-18 15:02:39,fix bug in module,lvasiliev
+4043a97,2023-03-18 11:29:32,add feature,dsmisnov
+ebd6523,2023-03-18 22:37:00,fix bugs,nsokolov
+065df20,2023-03-18 00:45:42,add unit tests,aivanov
+e8fe8dc,2023-03-18 13:54:22,fix bug,pzaitsev
+862cfb7,2023-03-18 00:45:26,add unit tests,pzaitsev
+203d8b2,2023-03-18 12:01:25,fix bug,mpetrova
+cc7199e,2023-03-18 20:57:33,update dependencies,ekuznetsova
+b603f5e,2023-03-18 08:28:02,fix bug,pzaitsev
+2cc21c2,2023-03-18 09:03:18,implement new design,pzaitsev
+c50138c,2023-03-18 23:09:34,update dependencies,aivanov
+ee71bdc,2023-03-18 00:33:24,fix bug,knikolaeva
+0bfd47d,2023-03-18 15:02:05,implement new design,nsokolov
+18a61d9,2023-03-18 16:47:38,implement new design,lvasiliev
+9f32f16,2023-03-18 11:47:26,fix bug in module,mpetrova
+bb6eb60,2023-03-18 10:28:41,update documentation,abelov
+78e7f6f,2023-03-18 13:06:07,optimize performance,mpetrova
+79b4360,2023-03-18 00:16:54,fix bug in module,mpetrova
+58dfd65,2023-03-18 17:31:02,update dependencies,aivanov
+1eb2aac,2023-03-18 08:28:42,optimize performance,knikolaeva
+9f133a2,2023-03-18 21:16:11,optimize performance,pzaitsev
+7f5572a,2023-03-18 09:26:33,optimize performance,aivanov
+434c42e,2023-03-18 11:38:04,update dependencies,lvasiliev

@@ -1,0 +1,38 @@
+commit_id,commit_time,commit_message,author
+bd749d6,2023-03-18 14:11:32,optimize performance,aivanov
+3bddc80,2023-03-18 15:24:04,update documentation,mpetrova
+f8d5a69,2023-03-18 20:32:43,improve user experience,dsmisnov
+3a1afbf,2023-03-18 22:55:20,add unit tests,nsokolov
+b9d676c,2023-03-18 15:37:17,fix bug,abelov
+0013007,2023-03-18 16:34:07,fix bugs,nsokolov
+3fd087d,2023-03-18 16:42:53,fix bug in module,okozlova
+06b6fbd,2023-03-18 15:35:34,improve user experience,nsokolov
+c15f099,2023-03-18 10:14:12,fix bugs,ekuznetsova
+7469ac5,2023-03-18 16:23:03,update documentation,knikolaeva
+5c3b55f,2023-03-18 20:17:28,improve user experience,ekuznetsova
+e7fa150,2023-03-18 08:29:16,update documentation,aivanov
+25ceaba,2023-03-18 17:50:42,fix bug in module,dsmisnov
+15f2b5e,2023-03-18 15:17:00,refactor code,okozlova
+1a2062c,2023-03-18 23:21:18,optimize performance,abelov
+c6027b5,2023-03-18 18:57:53,fix bug in module,aivanov
+68aca6d,2023-03-18 22:15:32,improve user experience,nsokolov
+38442ed,2023-03-18 23:22:14,fix bugs,okozlova
+d323e41,2023-03-18 19:49:09,add unit tests,abelov
+8ae7cdd,2023-03-18 12:17:46,add unit tests,aivanov
+b4aa21f,2023-03-18 17:39:48,update documentation,knikolaeva
+6439098,2023-03-18 09:06:28,fix bug in module,nsokolov
+bab8a1c,2023-03-18 12:43:49,fix issue,aivanov
+d620ad4,2023-03-18 17:47:52,update documentation,pzaitsev
+abd81d8,2023-03-18 21:58:40,fix bugs,mpetrova
+058b4d9,2023-03-18 09:18:19,improve user experience,dsmisnov
+d3c4051,2023-03-18 11:10:00,implement new design,aivanov
+ee809e0,2023-03-18 22:47:36,add unit tests,mpetrova
+3761739,2023-03-18 01:05:23,refactor code,dsmisnov
+a99f1c1,2023-03-18 13:21:44,improve user experience,lvasiliev
+f409e41,2023-03-18 11:13:52,refactor code,knikolaeva
+27dfe8c,2023-03-18 07:35:22,add feature,nsokolov
+2b79e62,2023-03-18 21:48:46,refactor code,aivanov
+6ebd6de,2023-03-18 19:26:30,fix bug,lvasiliev
+84bf3d3,2023-03-18 00:05:03,implement new design,mpetrova
+acc93e2,2023-03-18 13:30:52,fix bug in module,nsokolov
+11b6b1e,2023-03-18 12:14:34,fix bugs,lvasiliev

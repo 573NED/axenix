@@ -1,0 +1,29 @@
+commit_id,commit_time,commit_message,author
+c13265a,2023-03-18 13:53:49,fix issue,mpetrova
+eff0ee1,2023-03-18 14:34:47,update dependencies,nsokolov
+9be9614,2023-03-18 09:30:04,update documentation,knikolaeva
+264bc4f,2023-03-18 21:50:39,update documentation,nsokolov
+83f1d3b,2023-03-18 13:56:28,fix bugs,lvasiliev
+4106a65,2023-03-18 07:44:58,add unit tests,pzaitsev
+59afca7,2023-03-18 12:12:03,fix bug,aivanov
+0c6f977,2023-03-18 07:03:58,update documentation,nsokolov
+c154f72,2023-03-18 19:21:45,improve user experience,ekuznetsova
+391322d,2023-03-18 17:40:22,fix bugs,lvasiliev
+3bba92a,2023-03-18 20:16:18,add unit tests,lvasiliev
+237ae57,2023-03-18 01:51:37,refactor code,okozlova
+3e7b47e,2023-03-18 17:17:07,add unit tests,lvasiliev
+2708ccc,2023-03-18 21:19:34,optimize performance,ekuznetsova
+3464262,2023-03-18 16:16:26,add unit tests,abelov
+5724a85,2023-03-18 09:56:55,add unit tests,aivanov
+13302c7,2023-03-18 01:50:09,update documentation,dsmisnov
+14075b4,2023-03-18 17:35:28,fix bug,aivanov
+e73179d,2023-03-18 23:56:22,update dependencies,aivanov
+a11e45e,2023-03-18 21:00:16,fix bugs,mpetrova
+289554f,2023-03-18 21:19:28,optimize performance,aivanov
+bcf7b39,2023-03-18 15:30:49,add feature,aivanov
+7c3568d,2023-03-18 18:41:27,implement new design,lvasiliev
+3f02eef,2023-03-18 15:50:07,improve user experience,nsokolov
+d0faa12,2023-03-18 14:27:06,implement new design,mpetrova
+dbaca7a,2023-03-18 20:17:53,add feature,abelov
+d2cbcb4,2023-03-18 00:53:22,implement new design,okozlova
+ed0f49b,2023-03-18 10:27:05,add unit tests,lvasiliev

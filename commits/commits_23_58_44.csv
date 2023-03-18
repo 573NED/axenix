@@ -1,0 +1,43 @@
+commit_id,commit_time,commit_message,author
+0ee1507,2023-03-18 22:35:41,fix issue,knikolaeva
+cc8db0d,2023-03-18 08:57:44,fix issue,abelov
+8fea42d,2023-03-18 19:03:16,update documentation,nsokolov
+9e8e4ab,2023-03-18 13:34:54,optimize performance,dsmisnov
+1202f82,2023-03-18 07:04:22,update documentation,okozlova
+50736d6,2023-03-18 14:54:17,fix bug in module,ekuznetsova
+9f482ca,2023-03-18 16:34:53,update dependencies,okozlova
+fc8f0bd,2023-03-18 19:17:36,add unit tests,nsokolov
+354abd2,2023-03-18 19:22:41,update dependencies,knikolaeva
+d45e671,2023-03-18 18:57:49,optimize performance,knikolaeva
+84e99d8,2023-03-18 17:17:55,fix bug,mpetrova
+e86f272,2023-03-18 16:21:58,fix bug in module,nsokolov
+625e651,2023-03-18 00:40:57,implement new design,ekuznetsova
+fa8f47b,2023-03-18 16:41:28,fix bug in module,dsmisnov
+629884f,2023-03-18 17:47:04,improve user experience,mpetrova
+ca69a7d,2023-03-18 16:29:06,refactor code,knikolaeva
+82c7e3b,2023-03-18 10:34:29,improve user experience,okozlova
+b866aaa,2023-03-18 14:22:34,fix issue,dsmisnov
+19d3fc9,2023-03-18 17:56:35,fix bug in module,lvasiliev
+ce64f9d,2023-03-18 20:27:29,optimize performance,lvasiliev
+20a72f1,2023-03-18 09:19:21,fix bug in module,okozlova
+d11c369,2023-03-18 20:49:25,add unit tests,abelov
+79c5e54,2023-03-18 20:45:28,improve user experience,dsmisnov
+c39211d,2023-03-18 10:49:13,add feature,pzaitsev
+10ce714,2023-03-18 08:02:54,implement new design,mpetrova
+fc07815,2023-03-18 13:55:38,fix bug in module,okozlova
+179a872,2023-03-18 08:39:24,add feature,lvasiliev
+01ef02e,2023-03-18 19:29:24,refactor code,dsmisnov
+e39c2c4,2023-03-18 15:35:22,update documentation,dsmisnov
+c1131f7,2023-03-18 12:58:13,update dependencies,aivanov
+9db828f,2023-03-18 01:08:55,update dependencies,abelov
+5528f2c,2023-03-18 18:43:56,refactor code,lvasiliev
+3fe5e99,2023-03-18 15:19:14,implement new design,mpetrova
+5c664ef,2023-03-18 09:49:48,optimize performance,okozlova
+1803480,2023-03-18 23:23:11,update dependencies,abelov
+4cf980b,2023-03-18 07:52:06,update documentation,lvasiliev
+a28a515,2023-03-18 19:10:08,fix bug,nsokolov
+ae56bb3,2023-03-18 16:08:21,add feature,knikolaeva
+56eaee2,2023-03-18 14:04:18,implement new design,abelov
+47570b6,2023-03-18 13:59:02,refactor code,abelov
+d5ce7fb,2023-03-18 00:46:08,implement new design,okozlova
+9af8c6f,2023-03-18 09:40:44,add unit tests,pzaitsev
