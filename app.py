@@ -1,13 +1,19 @@
-from flask import Flask, render_template, request, url_for
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
+# Создаем список с данными для отображения
+commits = [
+    ('aivanov', 99),
+    ('okozlova', 86),
+    ('dsmisnov', 80),
+    ('knikolaeva', 80),
+    ('ekuznetsova', 77),
+]
 
-@app.route("/")
+@app.route('/')
 def index():
-    with open('cresult.txt', 'r') as file:
-        content = file.read()
-    return render_template('index.html', content=content)
+    return render_template('commits.html', commits=commits)
 
-if __name__ == "__main__":
-    app.run(debug=True)
+if __name__ == '__main__':
+    app.run()
